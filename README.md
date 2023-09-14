@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--NzgxrJEe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mdvk568xm4hmk3bjfsqs.gif)
+![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--NzgxrJEe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mdvk568xm4hmk3bjfsqs.gif)
 <h1 align="center">Hi 👋, I'm MD JUNED ALAM</h1>
 <h3 align="center">I AM STUDENT OF JCT COLLEGE</h3>
 <img align ="right" alt = "coding" width = "400" src="https://iconscout.com/lottie/software-engineer-launching-code-6369144/programmer.gif"> 
