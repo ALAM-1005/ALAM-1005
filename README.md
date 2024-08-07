@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alam-1005&label=Profile%20views&color=0e75b6&style=flat" alt="alam-1005" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **JAVA FULL STACK**
 
-- 💬 Ask me about **React,MEAN**
+- 💬 Ask me about **JAVA**
 
 - 📫 How to reach me **mdjunedalam220@gmail.com**
 
