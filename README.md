@@ -3,7 +3,9 @@
 <img align="center" alt="coding" width="400" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif" >
 <br>
 <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alam-1005&label=Profile%20views&color=0e75b6&style=flat" alt="alam-1005" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alam-1005" alt="alam-1005" /></a> </p>
 <p align="left"> <a href="https://twitter.com/mdjuned840505" target="blank"><img src="https://img.shields.io/twitter/follow/mdjuned840505?logo=twitter&style=for-the-badge" alt="mdjuned840505" /></a> </p>
 
 - 🌱 I’m currently learning **JavaFull Stack**
