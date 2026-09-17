@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alam-1005&label=Profile%20views&color=0e75b6&style=flat" alt="alam-1005" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alam-1005" alt="alam-1005" /></a> </p>
+
 
 ## 💫 About Me:
 I'm a Java backend engineer working as an **Associate Java Developer at Prodhee Technologies** (Bangalore) since July 2025. I build J2EE applications and REST APIs, and also design interview frameworks for software engineer hiring.<br><br>
