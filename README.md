@@ -13,7 +13,7 @@
 
 
 ## 💫 About Me:
-I'm a Java backend engineer working as an **Associate Java Developer at Prodhee Technologies** (Bangalore) since July 2025. I build J2EE applications and REST APIs, and also design interview frameworks for software engineer hiring.<br><br>
+I'm a Java backend engineer working as an **Associate Java Developer at Prodhee Technologies** Bangalore. I build J2EE applications and REST APIs, and also design interview frameworks for software engineer hiring.<br><br>
 Some things I've worked on:
 - 🔧 Built **45+ REST APIs** powering production features
 - 🔐 Implemented **JWT authentication** and secure microservices
