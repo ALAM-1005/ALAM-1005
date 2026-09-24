@@ -4,7 +4,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=550&lines=Associate+Java+Developer;Building+scalable+REST+APIs+%26+microservices;Java+%7C+Spring+%7C+Docker+%7C+Jenkins;Always+learning+Java+Full+Stack" alt="Typing SVG" /></a>
 </p>
 
-<img align="center" alt="coding" width="1000" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
+<img align="center" alt="coding" width="500" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
 <br><br>
 
